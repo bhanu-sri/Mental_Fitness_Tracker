@@ -18,4 +18,4 @@ The datasets used in this project are obtained from Kaggle:
 Dataset 1: mental-and-substance-use-as-share-of-disease.csv
 Dataset 2: prevalence-by-mental-and-substance-use-disorder.csv
 
-##The project is inspired by the growing need for mental health awareness and fitness tracking.##
+**The project is inspired by the growing need for mental health awareness and fitness tracking.**
